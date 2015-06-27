@@ -1,12 +1,5 @@
-my name is "ZengZhiKun"
-what your name?
-do you know  the notepad is  free software.
-
-
-
 Git is a distributed version control system.
-Git is free software.
-
+Git is free software distributed under the GPL.
 
 
 
