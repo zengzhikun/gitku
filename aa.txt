@@ -1,0 +1,12 @@
+include <iostream>
+usisng namespace std;
+int mian()
+{
+	if (id = 12
+	{
+	sdfsdf
+	 sdfsdfdf
+	 sdflsdfskdf [s]
+	 
+	}
+}
