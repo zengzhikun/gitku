@@ -7,4 +7,5 @@ int mian()
 	sdfsdf
 	 sdfsdfdf
 	 sdflsdf
+Íõ°Ëµ°£¡
 }
