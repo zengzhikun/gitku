@@ -6,10 +6,5 @@ int mian()
 	{
 	sdfsdf
 	 sdfsdfdf
-	 sdflsdfskdf [s]
-	 
-	}
+	 sdflsdf
 }
-我创建了新分支了：哈哈哈do you kon
-hahaha 
-
